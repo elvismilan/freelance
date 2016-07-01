@@ -1,3 +1,11 @@
 node_modules
 npm-debug.log
 .sass-cache
+sass
+css
+fonts
+image
+js
+index.html
+blog.html
+portfolio.html
